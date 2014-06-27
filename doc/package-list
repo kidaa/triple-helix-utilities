@@ -1,0 +1,7 @@
+org.triplehelix.lib
+org.triplehelix.lib.buttons
+org.triplehelix.lib.commands.autonomous
+org.triplehelix.lib.controller
+org.triplehelix.lib.pid
+org.triplehelix.lib.properties
+org.triplehelix.lib.properties.provides

@@ -6,7 +6,7 @@ import edu.wpi.first.wpilibj.Joystick;
  * PS4 controller wrapper for a joystick.
  * @author Matthew.Lythgoe
  */
-public class PS4Ccontroller extends Joystick {
+public class PS4Controller extends Joystick {
     
     public static final int SQUARE = 0;
     public static final int X = 1;
@@ -34,7 +34,7 @@ public class PS4Ccontroller extends Joystick {
     public static final int D_PAD_Y = 8;
     
     
-    public PS4Ccontroller(int port) {
+    public PS4Controller(int port) {
         super(port);
     }
 
